@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<score-partwise version="3.1">
+  <work>
+    <work-title>曲目_938《王干妈说媒》_空</work-title>
+  </work>
+  <part-list>
+    <score-part id="P1">
+      <part-name>简谱旋律</part-name>
+    </score-part>
+  </part-list>
+  <part id="P1" />
+</score-partwise>
